@@ -5,6 +5,6 @@ python test: get info from ckan api
 - Calculates the amount of published datasets on http://beta.ckan.org
 - Gives a total of external (not uploaded) vs internal (uploaded) resources on http://beta.ckan.org
 
-FILES:
-ckanInfo.py (python script that runs the test)
-ckan.py     (python class module to fetch and process ckan data)
+File Description:
+- ckanInfo.py (python script that runs the test)
+- ckan.py     (python class module to fetch and process ckan data)
