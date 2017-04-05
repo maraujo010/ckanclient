@@ -5,17 +5,15 @@ python test: get info from ckan api using multiple asynchronous requests
 - Calculates the amount of published datasets on http://beta.ckan.org
 - Gives a total of external (not uploaded) vs internal (uploaded) resources on http://beta.ckan.org
 
-
-##File Description:
+File Description:
 - ckanInfo.py (python script that runs the test)
 - ckan.py     (python class module to fetch and process ckan data)
 
-##Install (module aiohttp):
+Install (module aiohttp):
 ``
 pip3 install aiohttp
-
 ``
-##Run the script (the files must be executable):
+Run the script (the files must be executable):
 ``
 ./ckanInfo.py
 ``
