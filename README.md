@@ -10,8 +10,10 @@ File Description:
 - ckan.py     (python class module to fetch and process ckan data)
 
 Install (module aiohttp)::
-
+``
 pip3 install aiohttp
-
-Run (the files must be executable):
+``
+Run the script (the files must be executable):
+``
 ./ckanInfo.py
+``
