@@ -1,5 +1,5 @@
 # ckanclient
-getting info from ckan api with multiple asynchronous requests
+Python exercise: getting info from ckan api with multiple asynchronous requests
   
 - Fetches datasets using the CKAN API from http://beta.ckan.org and stores them in python data structures
 - Calculates the amount of published datasets on http://beta.ckan.org
